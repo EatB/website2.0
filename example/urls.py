@@ -1,5 +1,3 @@
-# djangotemplates/example/urls.py
-
 from django.conf.urls import url
 from example import views
 
